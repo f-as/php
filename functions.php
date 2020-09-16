@@ -41,8 +41,3 @@ echo strlen($name).'<br>'; //Länge der Zeichenkette
 
 echo gettype($zahl);
 echo gettype((int) $zahl); 
-
-public function addieren($zahl1, $zahl2)
-{
-    return $zahl1 + $zahl2;
-}
