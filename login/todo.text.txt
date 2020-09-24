@@ -1,0 +1,8 @@
+* index-Seite als Einstieg in die Webseite
+* Formular separat und eingebunden in die Index-Seite
+    * 2 Felder name, passwort - auf richtige Feldtypen achten
+* Formular soll verarbeitet werden (Verarbeitung in eigner Datei)
+* Konstanten (auch separat gehalten)
+* Überprüfung ob name und passwort den Konstanten entsprechen
+* Ergebnis: Name und Passwort sind richtig -> Erfolgsmeldung
+            Name und/oder Passwort falsch -> Fehlermeldung
